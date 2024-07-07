@@ -1,0 +1,15 @@
+C:\Users\oguzh\OneDrive\Masaüstü\Proje\e-ticaret\DataAccessLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\oguzh\OneDrive\Masaüstü\Proje\e-ticaret\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Proje\e-ticaret\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\Proje\e-ticaret\DataAccessLayer\bin\Release\EntityFramework.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Proje\e-ticaret\DataAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Proje\e-ticaret\DataAccessLayer\bin\Release\EntityLayer.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Proje\e-ticaret\DataAccessLayer\bin\Release\EntityLayer.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\Proje\e-ticaret\DataAccessLayer\bin\Release\EntityLayer.dll.config
+C:\Users\oguzh\OneDrive\Masaüstü\Proje\e-ticaret\DataAccessLayer\bin\Release\EntityFramework.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Proje\e-ticaret\DataAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\oguzh\OneDrive\Masaüstü\Proje\e-ticaret\DataAccessLayer\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\oguzh\OneDrive\Masaüstü\Proje\e-ticaret\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\Proje\e-ticaret\DataAccessLayer\obj\Release\DataAcce.E67BD773.Up2Date
+C:\Users\oguzh\OneDrive\Masaüstü\Proje\e-ticaret\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Proje\e-ticaret\DataAccessLayer\obj\Release\DataAccessLayer.pdb
